@@ -10,7 +10,7 @@ This is a simple cat cafe simulation game called Yasamal Cat Cafe Idle Game. In 
 
 ## How to Play
 
-1. When you start the game, a cat cafe is created, and your first cat is named "Whiskers".
+1. When you start the game, a cat cafe is created, and your first cat is named "Xoxan".
 2. You can feed, play with, and put the cat to sleep using the options in the menu.
 3. If a cat's energy runs out, it will be given energy by its owner, and the player's earnings will increase.
 4. If you want to end the game or do something else, you can exit from the menu.
